@@ -1,0 +1,6 @@
+module Pods_Basic3 {
+  umbrella header "Pods-Basic3-umbrella.h"
+
+  export *
+  module * { export * }
+}

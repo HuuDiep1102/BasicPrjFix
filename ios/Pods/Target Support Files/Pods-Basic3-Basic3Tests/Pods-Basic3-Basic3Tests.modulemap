@@ -1,0 +1,6 @@
+module Pods_Basic3_Basic3Tests {
+  umbrella header "Pods-Basic3-Basic3Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

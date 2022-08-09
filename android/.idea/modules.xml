@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic3.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Basic3.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Basic3.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Basic3.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Basic3.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Basic3.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Basic3.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Basic3.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Basic3.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/36220575/Basic3.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/36220575/Basic3.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/36220575/Basic3.react-native-community_async-storage.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/36220575/Basic3.react-native-community_async-storage.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/36220575/Basic3.react-native-community_async-storage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/36220575/Basic3.react-native-community_async-storage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/36220575/Basic3.react-native-community_async-storage.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/36220575/Basic3.react-native-community_async-storage.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1925130588/Basic3.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1925130588/Basic3.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1925130588/Basic3.react-native-community_masked-view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1925130588/Basic3.react-native-community_masked-view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1925130588/Basic3.react-native-community_masked-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1925130588/Basic3.react-native-community_masked-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1925130588/Basic3.react-native-community_masked-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1925130588/Basic3.react-native-community_masked-view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-755884678/Basic3.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-755884678/Basic3.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-755884678/Basic3.react-native-device-info.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-755884678/Basic3.react-native-device-info.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-755884678/Basic3.react-native-device-info.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-755884678/Basic3.react-native-device-info.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-755884678/Basic3.react-native-device-info.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-755884678/Basic3.react-native-device-info.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2093696491/Basic3.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-2093696491/Basic3.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2093696491/Basic3.react-native-fast-image.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2093696491/Basic3.react-native-fast-image.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2093696491/Basic3.react-native-fast-image.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2093696491/Basic3.react-native-fast-image.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2093696491/Basic3.react-native-fast-image.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2093696491/Basic3.react-native-fast-image.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1838404869/Basic3.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1838404869/Basic3.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1838404869/Basic3.react-native-gesture-handler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1838404869/Basic3.react-native-gesture-handler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1838404869/Basic3.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1838404869/Basic3.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1838404869/Basic3.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1838404869/Basic3.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-90840957/Basic3.react-native-onesignal.iml" filepath="$PROJECT_DIR$/.idea/modules/-90840957/Basic3.react-native-onesignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-90840957/Basic3.react-native-onesignal.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-90840957/Basic3.react-native-onesignal.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-90840957/Basic3.react-native-onesignal.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-90840957/Basic3.react-native-onesignal.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-90840957/Basic3.react-native-onesignal.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-90840957/Basic3.react-native-onesignal.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-484294079/Basic3.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-484294079/Basic3.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-824151900/Basic3.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-824151900/Basic3.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-824151900/Basic3.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-824151900/Basic3.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-824151900/Basic3.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-824151900/Basic3.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-824151900/Basic3.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-824151900/Basic3.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1129476676/Basic3.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1129476676/Basic3.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1129476676/Basic3.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1129476676/Basic3.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1129476676/Basic3.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1129476676/Basic3.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1129476676/Basic3.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1129476676/Basic3.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/147185671/Basic3.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/147185671/Basic3.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/147185671/Basic3.react-native-splash-screen.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/147185671/Basic3.react-native-splash-screen.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/147185671/Basic3.react-native-splash-screen.main.iml" filepath="$PROJECT_DIR$/.idea/modules/147185671/Basic3.react-native-splash-screen.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/147185671/Basic3.react-native-splash-screen.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/147185671/Basic3.react-native-splash-screen.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1870534098/Basic3.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1870534098/Basic3.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1870534098/Basic3.react-native-webview.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1870534098/Basic3.react-native-webview.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1870534098/Basic3.react-native-webview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1870534098/Basic3.react-native-webview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1870534098/Basic3.react-native-webview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1870534098/Basic3.react-native-webview.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1459340430/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1459340430/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1459340430/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1459340430/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1459340430/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1459340430/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
